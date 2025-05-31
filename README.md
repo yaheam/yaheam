@@ -25,12 +25,11 @@ development, it is in my opinion the best combination of logical programming and
 <!--consider adding this later:
 badges for the programming languges you learned and tool and frameworks you use-->
 
-### Languages 🌐
+## 🛠️ Tools I Use
 
-| Language      | Proficiency      |
-| ------------- | ---------------- |
-| English       |                  |
-| Arabic        | Native language  |
+![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white)
+![VSCode](https://img.shields.io/badge/-VS%20Code-007ACC?logo=visual-studio-code&logoColor=white)
+
 
 ## What I'm currently learning 📚
 
