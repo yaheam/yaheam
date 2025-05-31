@@ -1,16 +1,37 @@
-## Hi there 👋
+# Hi everyone :wave:
 
-<!--
-**yaheam/yaheam** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Quick overview
+
+
+#### GitHub stats 
+<a href="https://github.com/anuraghazr/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=yaheam&show_icons=true&line_height=27&include_all_commits=true" alt="My github stats" />
+</a>  
+
+
+
+<!--### What I do
+
+I do Open Source. In fact, I do Open Source so much, that 95% of my work on
+GitHub is free and open to everyone. I am really passionate about doing web
+development, it is in my opinion the best combination of logical programming and
+(sometimes) beautiful design.-->
+
+<!-- TODO: Change later -->
+<!--## My skills 📜 -->
+
+
+
+### Languages 🌐
+
+| Language      | Proficiency      |
+| ------------- | ---------------- |
+| English       |                  |
+| Arabic        | Native language  |
+
+## What I'm currently learning 📚
+
+- C++ fundamantals 
+- Git Commands
