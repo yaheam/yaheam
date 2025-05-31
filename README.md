@@ -21,8 +21,8 @@ development, it is in my opinion the best combination of logical programming and
 
 <!-- TODO: Change later -->
 <!--## My skills 📜 -->
-
-
+<!--consider adding this later:
+badges for the programming languges you learned and tool and frameworks you use-->
 
 ### Languages 🌐
 
@@ -33,5 +33,5 @@ development, it is in my opinion the best combination of logical programming and
 
 ## What I'm currently learning 📚
 
-- C++ fundamantals 
+- C++ fundamentals 
 - Git Commands
