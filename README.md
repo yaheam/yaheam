@@ -5,10 +5,11 @@
 ## Quick overview
 
 
-#### GitHub stats 
+#### GitHub stats
 <a href="https://github.com/anuraghazr/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=yaheam&show_icons=true&line_height=27&include_all_commits=true" alt="My github stats" />
-</a>  
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=yaheam&show_icons=true&count_private=true&line_height=27&include_all_commits=true" alt="My GitHub stats" />
+</a>
+
 
 
 
